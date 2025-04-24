@@ -8,6 +8,7 @@ public class T1ServiceImpl implements T1Service {
     @Override
     public String jump() {
         String str = null;
+
         return str.substring(1);
     }
 }
