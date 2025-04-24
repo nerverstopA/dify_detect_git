@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: dify_detect_git
+server:
+  port: 5670
