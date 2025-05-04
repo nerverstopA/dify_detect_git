@@ -9,6 +9,6 @@ public class T1ServiceImpl implements T1Service {
     public String jump() {
         String str = null;
 
-        return str;
+        return str.substring(1);
     }
 }
