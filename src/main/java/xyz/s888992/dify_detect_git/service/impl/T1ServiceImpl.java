@@ -7,8 +7,8 @@ import xyz.s888992.dify_detect_git.service.T1Service;
 public class T1ServiceImpl implements T1Service {
     @Override
     public String jump() {
-        String str = null;
+        String str1 = null;
 
-        return str.substring(1);
+        return str1.substring(1);
     }
 }

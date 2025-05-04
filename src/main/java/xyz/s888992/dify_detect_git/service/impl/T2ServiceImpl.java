@@ -7,8 +7,8 @@ import xyz.s888992.dify_detect_git.service.T2Service;
 public class T2ServiceImpl implements T2Service {
     @Override
     public int say() {
-        int a =1,b = 0;
+        int a =1;
 
-        return a/b;
+        return a/0;
     }
 }
