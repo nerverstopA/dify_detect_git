@@ -9,6 +9,6 @@ public class T2ServiceImpl implements T2Service {
     public int say() {
         int a =1,b=0;
 
-        return a/0;
+        return a/b;
     }
 }
